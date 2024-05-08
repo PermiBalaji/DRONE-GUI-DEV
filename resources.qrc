@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>img/icons8-restart-94.png</file>
+        <file>img/icons8-power-off-64 (1).png</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file>img/155730923_529440688905999_4133517447173153871_n-modified.png</file>
+        <file>img/1690784908671.jpg</file>
+    </qresource>
+</RCC>

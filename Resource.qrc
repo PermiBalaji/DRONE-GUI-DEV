@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Styles">
+        <file>styles.css</file>
+        <file>map.html</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/Daviators.jpg</file>
+        <file>img/download (1).png</file>
+        <file>img/toolbar_status_battery.jpg</file>
+        <file>img/toolbar_status_critical.jpg</file>
+        <file>img/toolbar_status_flight_mode.jpg</file>
+        <file>img/toolbar_status_gps.jpg</file>
+        <file>img/toolbar_status_message.jpg</file>
+        <file>img/toolbar_status_rc.jpg</file>
+        <file>img/toolbar_status_rtk_gps.jpg</file>
+        <file>img/toolbar_status_telemetry.jpg</file>
+        <file>img/toolbar_view_select_analyse.jpg</file>
+        <file>img/toolbar_view_select_fly.jpg</file>
+        <file>img/toolbar_view_select_plan.jpg</file>
+        <file>img/toolbar_view_select_settings.jpg</file>
+        <file>img/toolbar_view_select_setup.jpg</file>
+        <file>C:/Users/kiran/Downloads/icons8-video-24.png</file>
+        <file>C:/Users/kiran/Downloads/icons8-pause-48.png</file>
+        <file>C:/Users/kiran/Downloads/icons8-return-48.png</file>
+        <file>C:/Users/kiran/Downloads/icons8-airport-48.png</file>
+        <file>img/icons8-zoom-in-100.png</file>
+        <file>img/icons8-zoom-out-64.png</file>
+        <file>img/icons8-airport-48.png</file>
+        <file>img/icons8-pause-48.png</file>
+        <file>img/icons8-return-48.png</file>
+        <file>img/icons8-video-24.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>img/logoiit.jpg</file>
+    </qresource>
+</RCC>

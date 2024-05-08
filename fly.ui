@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Fly</class>
+ <widget class="QDialog" name="Fly">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>186</width>
+    <height>76</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <layout class="QVBoxLayout" name="verticalLayout_2">
+   <item>
+    <layout class="QVBoxLayout" name="verticalLayout">
+     <item>
+      <widget class="QComboBox" name="comboBox">
+       <item>
+        <property name="text">
+         <string>Take Off</string>
+        </property>
+        <property name="icon">
+         <iconset resource="reso.qrc">
+          <normaloff>:/res/C:/Users/kiran/Downloads/icons8-airport-48.png</normaloff>:/res/C:/Users/kiran/Downloads/icons8-airport-48.png</iconset>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>RTL</string>
+        </property>
+        <property name="icon">
+         <iconset resource="reso.qrc">
+          <normaloff>:/res/C:/Users/kiran/Downloads/icons8-return-48.png</normaloff>:/res/C:/Users/kiran/Downloads/icons8-return-48.png</iconset>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Pause</string>
+        </property>
+        <property name="icon">
+         <iconset resource="reso.qrc">
+          <normaloff>:/res/C:/Users/kiran/Downloads/icons8-pause-48.png</normaloff>:/res/C:/Users/kiran/Downloads/icons8-pause-48.png</iconset>
+        </property>
+       </item>
+       <item>
+        <property name="text">
+         <string>Action</string>
+        </property>
+        <property name="icon">
+         <iconset resource="reso.qrc">
+          <normaloff>:/res/C:/Users/kiran/Downloads/icons8-video-24.png</normaloff>:/res/C:/Users/kiran/Downloads/icons8-video-24.png</iconset>
+        </property>
+       </item>
+      </widget>
+     </item>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout_2">
+       <item>
+        <spacer name="horizontalSpacer">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+         <property name="sizeHint" stdset="0">
+          <size>
+           <width>40</width>
+           <height>20</height>
+          </size>
+         </property>
+        </spacer>
+       </item>
+       <item>
+        <layout class="QHBoxLayout" name="horizontalLayout">
+         <item>
+          <widget class="QPushButton" name="pushButton">
+           <property name="text">
+            <string>Ok</string>
+           </property>
+          </widget>
+         </item>
+         <item>
+          <widget class="QPushButton" name="pushButton_2">
+           <property name="text">
+            <string>Cancel</string>
+           </property>
+          </widget>
+         </item>
+        </layout>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="reso.qrc"/>
+ </resources>
+ <connections/>
+</ui>
